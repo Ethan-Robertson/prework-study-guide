@@ -1,13 +1,8 @@
 # Prework Study Guide Webpage
 
-## This is a Prework Study Guide to allow me to learn my baseline skills of HTML, CSS, and JavaScript for my UCF Bootcamp Class. This will also allow me to have a resource to look back to and add new notes throughout my course. 
+## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This is a Prework Study Guide to allow me to learn my baseline skills of HTML, CSS, and JavaScript for my UCF Bootcamp Class. This will also allow me to have a resource to look back to and add new notes throughout my course. 
 
 
 ## Installation
